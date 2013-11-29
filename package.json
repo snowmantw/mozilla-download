@@ -19,7 +19,7 @@
   },
   "dependencies" : {
     "debug": "*",
-    "mozilla-get-url": "0.1.0",
+    "mozilla-get-url": "git://github.com/snowmantw/mozilla-get-url.git#0.0.1",
     "dmg": "~0.0.3",
     "tmp": "~0.0.20",
     "ncp": "~0.4",
